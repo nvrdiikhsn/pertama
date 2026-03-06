@@ -1,4 +1,4 @@
 # pertama
 repositori percobaan
 
-untuk belajar github
+untuk belajar 
